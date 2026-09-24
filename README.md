@@ -19,7 +19,7 @@ Every customer is scored 1-5 on Recency (days since last purchase), Frequency (n
 ## Dashboard
 Built an interactive Power BI dashboard to explore segments by revenue, count, and behavior.
 
-![Dashboard](images/RFM_Segmentation_Dashboard.png)
+![Dashboard](RFM_Segmentation_Dashboard.png)
 
 ## Project Structure
 ```
